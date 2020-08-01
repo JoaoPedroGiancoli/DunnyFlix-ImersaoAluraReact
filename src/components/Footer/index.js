@@ -9,6 +9,7 @@ function Footer() {
       </a>
       <p>
       < a href="https://www.linkedin.com/in/jpgusp/">Joao Pedro Giancoli</a>
+      {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
