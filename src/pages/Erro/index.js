@@ -9,11 +9,8 @@ function Erro(){
             <Link to="/">
                 <img className="Logo" src={Logo} alt="LucasFlix"></img>
             </Link>
-            <h1>Erro 404 - Use Mascara - Stay Safe</h1>
+            <h1>Erro 404 - Arquivo Nao encontrado</h1>
             <div className="dash">
-            <iframe title="myiframe" className="painel" 
-            src="https://public.tableau.com/views/Covid-19Word-Header/Covid-19?:embed=y&:showVizHome=no?toolbar=no">
-        </iframe>
             </div>
         </div>
        
