@@ -2,29 +2,29 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "StandUp",
-      "descricao": "Categoria de StandUp",
+      "titulo": "Season 1",
+      "descricao": "1 Temporada de Girls in the House",
       "cor": "#FF33FB",
       "link_extra": {}
     },
     {
       "id": 2,
-      "titulo": "LOLLLLLLLLLLLLLLLLLLL",
-      "descricao": "Categoria de Business Intelligence",
+      "titulo": "Season 2",
+      "descricao": "2 Temporada de Girls in the House",
       "cor": "#BD1CBB",
       "link_extra": {}
     },
     {
       "id": 3,
-      "titulo": "Code",
-      "descricao": "Categoria de Code",
+      "titulo": "Season 3",
+      "descricao": "3 Temporada de Girls in the House",
       "cor": "#6E0E6D",
       "link_extra": {}
     },
     {
       "id": 4,
-      "titulo": "Data Science e Inteligência Artificial",
-      "descricao": "Categoria de Data Science e Inteligência Artificial",
+      "titulo": "Season 4",
+      "descricao": "4 Temporada de Girls in the House",
       "cor": "#310330",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -33,14 +33,14 @@
     },
     {
       "id": 5,
-      "titulo": "Series",
-      "descricao": "Categoria de Series",
+      "titulo": "Season 5",
+      "descricao": "5 Temporada de Girls in the House",
       "cor": "#7D497C"
     },
     {
       "id": 6,
-      "titulo": "Música",
-      "descricao": "Categoria de música",
+      "titulo": "Disk Duny",
+      "descricao": "Duny curtas",
       "cor": "#F3A5F2",
       "link_extra": {}
     }
@@ -48,135 +48,111 @@
   "videos": [
     {
       "id": 1,
-      "categoriaId": 1,
-      "titulo": "THIAGO VENTURA - TIGAS E OS 300 DE ESPARTA l Legendado",
-      "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
+      "categoriaId": 6,
+      "titulo": "Biquini Beneficiente",
+      "url": "https://www.youtube.com/watch?v=sO0wkv-9rKg"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Rodrigo Marques - Especial de Comédia - O Problema é Meu - Stand Up Comedy",
-      "url": "https://www.youtube.com/watch?v=xaq5wV24TH0"
+      "titulo": "Girls In The House - 1.01 - Date Night",
+      "url": "https://www.youtube.com/watch?v=DueqHtupyNI&list=PLLzL0mq1mPyUWMaBHAnVOYHX1xral66c-"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "AFONSO PADILHA - VOCÊ FAZ O QUE VOCÊ GOSTA?",
-      "url": "https://www.youtube.com/watch?v=WdjUwA648Uo"
+      "titulo": "Girls In The House - 1.02 - Strange Events",
+      "url": "https://www.youtube.com/watch?v=uS9WLtSJPrY&list=PLLzL0mq1mPyUWMaBHAnVOYHX1xral66c-&index=2"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "ESPECIAL DE COMÉDIA - TRAGO VERDADES com Emerson Ceará (Episódio 1)",
-      "url": "https://www.youtube.com/watch?v=ID8_S_ngtuk"
+      "titulo": "Girls In The House - 1.03 - Young Generation",
+      "url": "https://www.youtube.com/watch?v=qqKw4AlITco&list=PLLzL0mq1mPyUWMaBHAnVOYHX1xral66c-&index=3"
     },
     {
       "id": 5,
       "categoriaId": 2,
-      "titulo": "What is Tableau? | A Tableau Overview",
-      "url": "https://www.youtube.com/watch?v=YfE9jBq002s"
+      "titulo": "Girls In The House - 2.01 - April Fools",
+      "url": "https://www.youtube.com/watch?v=pF8ZbP81HAA"
     },
     {
       "id": 6,
       "categoriaId": 2,
-      "titulo": "TC18 Tip Battle Round 2 Tableau Version 9",
-      "url": "https://www.youtube.com/watch?v=kFUmuGlux-0"
+      "titulo": "Girls In The House - 2.02 - Holy Thievery",
+      "url": "https://www.youtube.com/watch?v=2z3WEqKehqQ"
     },
     {
       "id": 7,
       "categoriaId": 2,
-      "titulo": "Curso Básico de Power BI - Aula 01",
-      "url": "https://www.youtube.com/watch?v=merUYMASzWw"
+      "titulo": "Girls In The House - 2.03 - Alex Goes Out",
+      "url": "https://www.youtube.com/watch?v=eQypFT0mShY"
     },
     {
       "id": 8,
       "categoriaId": 3,
-      "titulo": "Introdução a programação Reativa - Pokedéx Reativo #1",
-      "url": "https://www.youtube.com/watch?v=7DbPSiA4ENg&t=14s"
+      "titulo": "Girls In The House - 3.01 - Bikini Contest",
+      "url": "https://www.youtube.com/watch?v=iXfDZsjy6pc&list=PLLzL0mq1mPyUlGvqpJTIf6fZfhQZU8DEZ"
     },
     {
       "id": 9,
       "categoriaId": 3,
-      "titulo": "Selenium com Python #00 - Abertura do curso",
-      "url": "https://www.youtube.com/watch?v=PHHXksljGNA&t=192s"
+      "titulo": "Girls In The House - 3.02 - Hot Dogs (Part 1)",
+      "url": "https://www.youtube.com/watch?v=pTa_LjcSUHY&list=PLLzL0mq1mPyUlGvqpJTIf6fZfhQZU8DEZ&index=2"
     },
     {
       "id": 10,
       "categoriaId": 3,
-      "titulo": "Python na Prática fazendo Web Scraping (de JavaScript dinâmico) // Mão no Código #28",
-      "url": "https://www.youtube.com/watch?v=Vxl5jUltHBo&t=374s"
+      "titulo": "Girls In The House - 3.02 - Date Night 2 (Part 2)",
+      "url": "https://www.youtube.com/watch?v=kNKPoIL_2tE&list=PLLzL0mq1mPyUlGvqpJTIf6fZfhQZU8DEZ&index=3"
     },
     {
       "id": 11,
       "categoriaId": 4,
-      "titulo": "Curso Python #01 - Seja um Programador",
-      "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+      "titulo": "Girls In The House - 4.01 - CIVIL WAR (Nova Temporada)",
+      "url": "https://www.youtube.com/watch?v=4nq095M0TX0&list=PLLzL0mq1mPyVDp1t9yAO0XIM8WkX5ZqaG"
     },
     {
       "id": 12,
       "categoriaId": 4,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "titulo": "Girls In The House - 4.02 - Beware The Chupacu",
+      "url": "https://www.youtube.com/watch?v=WXWshhqNCoE&list=PLLzL0mq1mPyVDp1t9yAO0XIM8WkX5ZqaG&index=2"
     },
     {
       "id": 13,
       "categoriaId": 4,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "titulo": "Girls In The House - 4.03 - Duny's Got a Boyfriend",
+      "url": "https://www.youtube.com/watch?v=QEZESYIVhHs&list=PLLzL0mq1mPyVDp1t9yAO0XIM8WkX5ZqaG&index=3"
     },
     {
       "id": 14,
       "categoriaId": 4,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "titulo": "Girls In The House - 4.04 - Orégano (Repost)",
+      "url": "https://www.youtube.com/watch?v=0DJ2GaL3ljY&list=PLLzL0mq1mPyVDp1t9yAO0XIM8WkX5ZqaG&index=4"
     },
     {
       "id": 15,
       "categoriaId": 5,
-      "titulo": "Breaking Bad",
-      "url": "https://www.youtube.com/watch?v=VaOt6tXyf2Y"
-    },
-    {
-      "id": 16,
-      "categoriaId": 5,
-      "titulo": "Dark",
-      "url": "https://www.youtube.com/watch?v=JkUWmxhtU4E"
-    },
-    {
-      "id": 17,
-      "categoriaId": 5,
-      "titulo": "Mr. Robot",
-      "url": "https://www.youtube.com/watch?v=N6HGuJC--rk"
-    },
-    {
-      "id": 18,
-      "categoriaId": 5,
-      "titulo": "Better Call Saul",
-      "url": "https://www.youtube.com/watch?v=FAdiEjeNRi0"
+      "titulo": "Girls In The House - 5.01 - Breath of so-called Fresh Air (Nova Temporada)",
+      "url": "https://www.youtube.com/watch?v=WvHOdv9knNU&list=PLLzL0mq1mPyVQb2w-5l3WkyoydAHlpAsz"
     },
     {
       "id": 19,
       "categoriaId": 6,
-      "titulo": "Marcelo Falcão - Viver (Clipe Oficial)",
-      "url": "https://www.youtube.com/watch?v=OMOVBjrv2-w"
+      "titulo": "DISK DUNY - Save Marina Joyce 2019",
+      "url": "https://www.youtube.com/watch?v=3xvzggAOLy8&list=PLLzL0mq1mPyUmTSg-AnXPWk0vkFLteSMl"
     },
     {
       "id": 20,
       "categoriaId": 6,
-      "titulo": "Charlie Brown Jr. - Só os Loucos Sabem (Video Clipe)",
-      "url": "https://www.youtube.com/watch?v=JRJj4z-prvM"
+      "titulo": "DISK DUNY - Shaft's Vaccine",
+      "url": "https://www.youtube.com/watch?v=1NvzJx-kAHk&list=PLLzL0mq1mPyUmTSg-AnXPWk0vkFLteSMl&index=2"
     },
     {
       "id": 21,
       "categoriaId": 6,
-      "titulo": "Red Hot Chili Peppers - Otherside [Official Music Video]",
-      "url": "https://www.youtube.com/watch?v=rn_YodiJO6k"
-    },
-    {
-      "id": 21,
-      "categoriaId": 6,
-      "titulo": "O Rappa e Rapadura - Reza Vela / Nordeste me Veste [Acústico na Oficina Francisco Brennand]",
-      "url": "https://www.youtube.com/watch?v=JR8Cl7hRn8M"
+      "titulo": "DISK DUNY - Três Espiãs Demais!",
+      "url": "https://www.youtube.com/watch?v=b5VNkxib6Zw&list=PLLzL0mq1mPyUmTSg-AnXPWk0vkFLteSMl&index=3"
     },
     {
       "titulo": "",
