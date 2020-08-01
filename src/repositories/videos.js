@@ -22,7 +22,7 @@ function create(objetoDoVideo) {
             
         });
 }
-//http://localhost:8080/categorias?_embed=videos
+//http://localhost:8080/categorias?_embed=videoss
 
 
 export default {
